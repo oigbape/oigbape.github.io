@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Current MSCS student at Georgia Tech, passionate about Intelligent ans Secure Systems and Networks. Welcome to my little corner on the web!
+Current MSCS student at Georgia Tech, passionate about Intelligent and Secure Systems & Networks. Welcome to my little corner on the web!
 
 Currently:
 ======
@@ -24,7 +24,7 @@ I'm planning to showcase some of my projects here.
 
 Fun fact:
 ======
-I am good at Football (Soccer) and a Manchester United FC fan
+Football (Soccer) Star and a Manchester United FC fan
  
 Thanks for visiting!
 ======
