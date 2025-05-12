@@ -13,11 +13,11 @@ author_profile: true
 
 ## Professional Affiliations
 
-* Member, Black in AI (2022-Present)
-* Member, International Association of Engineers (IAENG) (2022-Present)
-* Member, Data Scientist Networks (DSN) (2022-Present)
-* Member, Council for Regulation of Engineering in Nigeria (COREN) (2021-Present)
-
+* Member, Black in AI  
+* Member, International Association of Engineers (IAENG)  
+* Member, Data Scientist Networks (DSN)  
+* Member, Council for Regulation of Engineering in Nigeria (COREN)
+  
 ## Honours and Awards
 
 * Google Africa Development Scholarship (GADS) (2021) - Recipient - Cloud Developer path
