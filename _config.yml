@@ -112,7 +112,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &OR_Igbape
+  username               :  
 facebook:
   username               :
   app_id                 :
@@ -226,15 +226,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _professionaldevelopment
-  - scope:
-      path: ""
-      type: professionaldevelopment
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  
   # _publications
   - scope:
       path: ""
