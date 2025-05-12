@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Professional Development"
+    url: /Professional Development/    
 
   - title: "Teaching"
     url: /teaching/    
