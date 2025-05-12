@@ -21,7 +21,7 @@ author_profile: true
 
 * Google Africa Development Scholarship (GADS) (2021) - Recipient - Cloud Developer path
 
-* ## Certifications
+## Certifications
 
 * IBM Cybersecurity Analyst Professional Certificate, 2022 ([View on Credly](https://www.credly.com/badges/70dced8e-744f-4856-935e-41b857531627/public_url))
 * Google Project Management Certificate, 2022 ([View on Credly](https://www.credly.com/badges/aa84cafb-0988-40d1-a239-8b2f719f2be8/public_url))
