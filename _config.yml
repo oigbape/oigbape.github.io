@@ -23,7 +23,7 @@ repository               : "oigbape/oigbape.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Preferred name: Roland"
+  name             : #"Preferred name: Roland"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student"
   location         : #"Shenzhen"
