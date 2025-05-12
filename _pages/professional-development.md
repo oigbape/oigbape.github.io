@@ -7,8 +7,8 @@ author_profile: true
 
 ## Professional Development/Training 
 
-* Workshop: Google Africa Developer Scholarship - Google Cloud workshop “Deploying Google Kubernetes Engine”, November 6th 2021
-* Webinar: United Nations Office for Disarmament Affairs “CyberDiplomacy”, April 2020
+* **Workshop:** Google Africa Developer Scholarship - Google Cloud workshop “Deploying Google Kubernetes Engine”, November 6th 2021
+* **Webinar:** United Nations Office for Disarmament Affairs “CyberDiplomacy”, April 2020
 
 ## Professional Affiliations
 
