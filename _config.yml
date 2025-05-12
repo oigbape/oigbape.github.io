@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Olamotse 'Roland' Igbape"
 title_separator          : "-"
 name                     : &name "Olamotse 'Roland' Igbape"
-description              : &description "Current MSCS student at Georgia Tech, passionate about Intelligent and Secure Systems & Networks. Welcome to my little corner on the web!"
+description              : #&description "Current MSCS student at Georgia Tech, passionate about Intelligent and Secure Systems & Networks. Welcome to my little corner on the web!"
 url                      : https://oigbape.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oigbape/oigbape.github.io"
@@ -59,11 +59,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: #'Books'
+    title: 'Books'
   manuscripts:
-    title: 'A Bayesian Learning Framework Powered by IoT for Enhancing Highway Safety and Reducing Accidents: A Case Study of Benin-Onitsha Express Way'    
+    title: '  Title '    
   conferences:
-    title: #'Conference Papers'
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
