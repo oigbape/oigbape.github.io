@@ -13,6 +13,3 @@ author_profile: true
 * Google Africa Developer Scholarship - Google Cloud workshop “Deploying Google Kubernetes Engine”, November 6th 2021
 * United States Institute of Peace “Design, Monitoring and Evaluation for Programming in Fragile Environments”, April 2020
 * United Nations Office for Disarmament Affairs “CyberDiplomacy”, April 2020
-
-
-* 
