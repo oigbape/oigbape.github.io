@@ -22,4 +22,8 @@ author_profile: true
 
 * Google Africa Development Scholarship (GADS) (2021) - Recipient - Cloud Developer path
 
+## Certifications
 
+* IBM Cybersecurity Analyst Professional Certificate, 2020
+* Google Project Management Certificate, 2020
+* Google IT Support Professional Certificate, 2019
