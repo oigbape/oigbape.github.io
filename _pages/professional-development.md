@@ -2,7 +2,7 @@
 title: "Professional Development"
 permalink: /professional-development/
 layout: single
-author_profile: true
+author_profile: true 
 ---
 
 ## Professional Development Training (Seminar/Webinar/Workshop)
