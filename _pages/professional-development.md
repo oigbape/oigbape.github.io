@@ -28,33 +28,3 @@ author_profile: true
 * Coursera, Financial Aid Grant (2020) - Google Project Management Professional Certificate
 * Coursera, Financial Aid Grant (2020) - IBM Cybersecurity Analyst Professional Certificate
 
-## Extracurricular Activities
-
-### Soccer
-* Edo State University Uzairue - Faculty of Science Football Team (2022/2023)
-* Auchi Polytechnic Association United Football Club (Ass. Sec. Gen. 2022 - 2024)
-* Auchi Polytechnic Staff Official Football Team (Member, 2013 - Present)
-* Auchi Polytechnic Students Official Team (Member, 2004 - 2009)
-
-### Swimming
-* Auchi Polytechnic Staff Official Swimming Team (Member, 2013 - Present)
-
-### Table tennis
-* Auchi Polytechnic Staff Official Table Tennis Team (Member, 2013 - Present)
-
-### Other Roles
-* Financial Secretary, Electrical Staff Association Welfare Scheme (2022 - 2024)
-* Student Union Government, Auchi Polytechnic (2008/2009)
-
-## Languages
-
-* **English (Native Language):** Distinguished levels in Listening, Speaking, Reading, and Writing.
-* **French:** Intermediate levels in Listening, Speaking, Reading, and Writing.
-* **Hausa:** Intermediate levels in Listening, Speaking, Reading, and Writing.
-
-## Other Skills and Competences
-
-* Computer Networks
-* Python Programming
-* Data Analysis
-* Cyber threat Intelligence
