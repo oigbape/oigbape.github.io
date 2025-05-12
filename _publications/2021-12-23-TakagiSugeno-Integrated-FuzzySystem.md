@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "A Bayesian Learning Framework Powered by IoT for Enhancing Highway Safety and Reducing Accidents: A Case Study of Benin-Onitsha Express Way"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
