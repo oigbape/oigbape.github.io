@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 [**Download CV (PDF)**](/files/Igbape.pdf){: .btn .btn--success}{:target="_blank"}
+ 
+ Olamotse Roland Igbape
+ =====
+ oigbape3@gatech.edu
+linkedin.com/in/olamotse  
 
 Education
 ======
