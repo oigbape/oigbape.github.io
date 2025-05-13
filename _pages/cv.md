@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
- <h2><strong>Olamotse Roland Igbape</strong><br></h2>  
 <div class="text-center">
+  <h2 style="margin-bottom: 0.3em;">Olamotse Roland Igbape</h2>
   <a href="mailto:oigbape3@gatech.edu">oigbape3@gatech.edu</a><br>
-  <a href="https://linkedin.com/in/olamotse" target="_blank" rel="noopener noreferrer">linkedin.com/in/olamotse</a>
+  <a href="https://linkedin.com/in/olamotse" target="_blank" rel="noopener noreferrer">linkedin.com/in/olamotse</a><br><br> {/* Extra <br> for a bit more space before the button */}
+  <a href="/files/Igbape.pdf" class="btn btn--success" target="_blank" rel="noopener noreferrer"><strong>Download CV (PDF)</strong></a>
 </div>
-[**Download CV (PDF)**](/files/Igbape.pdf){: .btn .btn--success}{:target="_blank"}
+#[**Download CV (PDF)**](/files/Igbape.pdf){: .btn .btn--success}{:target="_blank"}
 
 ---
 
