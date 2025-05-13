@@ -20,8 +20,10 @@ Education
 
 Work experience
 ======
-* Jan 2017 – Aug 2024: Network Engineer, MIS Directorate, Federal Polytechnic Auchi, Edo State, NG
-  *  Provided comprehensive network administration and technical support for a campus infrastructure serving 5,000+ users and managing 300+ network devices (routers, switches, firewalls, APs), Achieved & maintained an average network uptime of 99.7% in during on-duty time through proactive monitoring, maintenance, and timely issue resolution.
+* Jan 2017 – Aug 2024: Network Services Engineer, MIS Directorate, Federal Polytechnic Auchi, Edo State, NG
+  *  Provided comprehensive network administration and technical support for a campus infrastructure serving 5,000+ users and managing 300+ network devices (routers, switches, firewalls, APs).
+  *  Achieved & maintained an average network uptime of 99.7% during on-duty time through proactive monitoring, maintenance, and timely issue resolution.
+  *  Key contributor to major network infrastructure upgrade, including (expanding campus Wi-Fi coverage by 30% to 5 new zones, benefiting 1,000+ users, and assisting in the migration to a new ISP link].
   *  Supervisor: Dr. Evelyn Oduntan, Director, MIS  
     
 *  Aug 2019 – Mar 2020: Sports Coordinator, Ingenious Minds School, Jattu ED - NG
