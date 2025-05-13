@@ -13,10 +13,11 @@ redirect_from:
   <a href="https://linkedin.com/in/olamotse" target="_blank" rel="noopener noreferrer">linkedin.com/in/olamotse</a><br><br></div>
 ---
 
-Education
-======
-* **M.S. in Computer Science** | Georgia Institute of Technology, 2026 
-* **B.S. in Computer Science** | Edo State University Uzairue, 2023
+## Education
+* **M.S. in Computer Science**
+    * Georgia Institute of Technology, Atlanta, GA, USA (May 2026)
+* **B.S. in Computer Science**
+    * Edo State University Uzairue, Edo State, NG (Nov 2023)
 
 Work experience
 ======
