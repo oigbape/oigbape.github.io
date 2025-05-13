@@ -32,6 +32,8 @@ To develop a machine learning model to predict the risk of Chronic Kidney Diseas
 * Developed a predictive model (e.g., **[State best model, e.g., Random Forest]**) that achieved **[e.g., an accuracy of X% and an AUC score of Y]** on the unseen test set.
 * Successfully identified **[e.g., 3-5]** significant predictors of CKD from the dataset, such as **[mention one or two if appropriate, e.g., blood pressure, glucose levels]**.
 * Demonstrated proficiency in applying the end-to-end machine learning pipeline, from data cleaning and EDA to model training, tuning, and evaluation.
+* Performed comprehensive data cleaning, preprocessing (handling missing values, encoding), and exploratory data analysis (EDA) using Pandas, Matplotlib, and Seaborn.
+
 
 ## Artifacts
 * **GitHub Repository:** [Link to Jupyter Notebooks/code]([YOUR_GITHUB_REPO_LINK_HERE])
