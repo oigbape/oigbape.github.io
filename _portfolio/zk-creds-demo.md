@@ -1,7 +1,7 @@
 ---
 title: "zk-creds-demo"
 order: 7
-excerpt: "Secure Anonymous Credentials with Zero-Knowledge Proofs (zkSNARKs), enabling privacy-preserving verification of attributes."
+excerpt: "Demonstrated a flexible anonymous credential system using zkSNARKs (Groth16, Poseidon hash) and the zkcreds-rs library for privacy-preserving verification of attributes such as age on passport data."
 collection: portfolio
 #date: "2025-04-24"
 tags: [Security, Cryptography, zkSNARKs, zkcreds, Privacy, Identity Management, Python] # Adjust as needed
