@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Dec 2023 – Aug 2024: Instructor, Department of Computer Science, School of ICT, Federal Polytechnic Auchi, Edo State, NG
-  * Transitioned to this academic role after completing BSc in Computer Science with a 4.17/5.0 CGPA, Facilitated training for Data Comms & Networks to 400+ undergraduate students and supervised 20+ student final projects achieving a 100% on-time completion rate and 100% final project grade.
+  * Transitioned to this academic role after completing BSc in Computer Science with a 4.17/5.0 CGPA, Facilitated training for Data Comms & Networks to 200+ undergraduate students and supervised 10+ student final projects achieving a 100% on-time completion rate and 100% final project grade.
   * Supervisor: Dr Moses Emadomi Igbape
  
 * Jan 2017 – Nov 2023: Network Engineer, MIS Directorate, Federal Polytechnic Auchi, Edo State, NG
