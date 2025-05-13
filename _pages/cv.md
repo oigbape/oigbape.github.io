@@ -68,7 +68,7 @@ redirect_from:
     *  Designed a multi-layered defense framework tailored to protect Nigerian Fintech platforms against cyber-espionage, based on comprehensive threat analysis and risk assessment.
     *  Supervisors: Prof. Wilson Nwankwo, and Dr. Pascal Chinedu
 
-* **SQL Injection Attack Detection and Prevention Model** | **
+* **SQL Injection Attack Detection and Prevention Model** 
     *  Key Tech: Python, SQL, [Pattern Matching/ML]
     *  Developed a model to detect and prevent SQL Injection attacks for an academic institution's portal, focusing on query analysis and [detection methodology].
     *  Supervisor: Dr. F. Chete*
@@ -83,10 +83,6 @@ redirect_from:
     *  Conducted a comparative analysis of data mining techniques to predict student academic performance, identifying key influential factors from student data.
     *  Supervisors: Dr. Samuel Makinde, and Dr. Samuel Omaji
 
-* **Takagi-Sugeno Fuzzy Logic for Subsurface Identification** (Published Research (Covenant Journal of Physical and Life Sciences), Dec 2021)
-    * Key Tech: Fuzzy Logic, Neural Networks, [MATLAB/Python?]
-    *  Co-authored research applying a Takagi-Sugeno fuzzy system with neural network-based clustering to analyze petrophysical well log data for subsurface identification.
-  
 ## Publications
 * **A Bayesian Learning Framework Powered by IoT for Enhancing Highway Safety and Reducing Accidents: A Case Study of Benin-Onitsha Express Way** J. E. Jibunor, B. B. Odigie, O. R. Igbape
     *  Published in: International Journal of Research in Information and Applied Sciences (IJRIAS), November 15, 2024
