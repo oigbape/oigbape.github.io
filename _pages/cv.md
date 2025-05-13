@@ -63,11 +63,6 @@ redirect_from:
     *  Key Technologies: IoT (ESP8266), Bayesian Learning, Python, ThingSpeak
     *  Co-developed an IoT system using Bayesian learning to predict highway accident risks, achieving an AUC-ROC of 0.82 and contributing to a peer-reviewed publication.
 
-* **Modelling a Cyber-Espionage Defence Framework for Fintech Platforms** (BSc Work, Edo State University Uzairue (Nov 2023))
-    *  Key Tech: Threat Modeling, Cybersecurity Frameworks
-    *  Designed a multi-layered defense framework tailored to protect Nigerian Fintech platforms against cyber-espionage, based on comprehensive threat analysis and risk assessment.
-    *  Supervisors: Prof. Wilson Nwankwo, and Dr. Pascal Chinedu
-
 * **SQL Injection Attack Detection and Prevention Model** 
     *  Key Tech: Python, SQL, [Pattern Matching/ML]
     *  Developed a model to detect and prevent SQL Injection attacks for an academic institution's portal, focusing on query analysis and [detection methodology].
