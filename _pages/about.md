@@ -10,9 +10,10 @@ redirect_from:
 
 Current MSCS student at Georgia Tech, passionate about Intelligent and Secure Systems & Networks. Welcome to my little corner on the web!
 
-Currently:
+Education:
 ======
-Master of Science in Computer Science at Georgia Tech.
+Master of Science in Computer Science at Georgia Tech. (2024-2026)
+Bachelor of Science in Computer Science at Edo State University, UZ-NG (2023)
 
 Research Interests:
 ======
@@ -20,7 +21,16 @@ Machine Learning, NLP, Security
 
 My Projects (Coming Soon!)
 ======
-I'm planning to showcase some of my projects here.  
+Urbanization trend visualization using D3.js for charts and choropleth maps
+PageRank Algorithm, Random Forest, SciKit Learn, LLM
+Spark, Docker, DataBricks, Azure
+Tableau, D3 Graphs, and Visualization
+SQLite, D3 Warmup, OpenRefine, Flask
+zk-creds demo: Flexible anonymous credential system based on zkSNARKs
+Hash lenght extension attack, Sql Injection, Buffer overflow, Padding Oracle attack, PKI, RSA Encryption and signature, Secret Key Encryption, Set UID, and Format String Attack
+Modifying functional and non functional requirement in SW Architecture and Design
+
+
 
 Fun fact:
 ======
