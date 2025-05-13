@@ -12,7 +12,7 @@ redirect_from:
  
  Olamotse Roland Igbape
  =====
- oigbape3@gatech.edu
+oigbape3@gatech.edu
 linkedin.com/in/olamotse  
 
 Education
