@@ -1,8 +1,7 @@
 ---
 title: "zk-creds-demo"
-excerpt: "Secure Anonymous Credentials with Zero-Knowledge Proofs (zkSNARKs)<br/><img src='/images/500x300.png'>"
+excerpt: "Secure Anonymous Credentials with Zero-Knowledge Proofs (zkSNARKs), enabling privacy-preserving verification of attributes.<br/><img src='/images/500x300.png'>"
 collection: portfolio
-excerpt: "Developed a proof-of-concept anonymous credential system using zkSNARKs, enabling privacy-preserving verification of attributes."
 date: "Spring 2025"
 tags: [Security, Cryptography, zkSNARKs, zkcreds, Privacy, Identity Management, Python] # Adjust as needed
 technologies: "zkSNARKs, [Python/Go/Rust?], Cryptographic Libraries"
