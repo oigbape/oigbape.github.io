@@ -24,10 +24,8 @@ Work experience
   *  Provided comprehensive network administration and technical support for a campus infrastructure serving 5,000+ users and managing 300+ network devices (routers, switches, firewalls, APs), Achieved & maintained an average network uptime of 99.7% in during on-duty time through proactive monitoring, maintenance, and timely issue resolution.
   *  Supervisor: Dr. Evelyn Oduntan, Director, MIS  
     
-*  Aug 2019 – Mar 2020: Volunteer Teacher & Coordinator, Ingenious Minds School, Jattu ED - NG
-   *  Taught Mathematics to 50+ primary students, achieving an average 15-20% improvement in student assessment scores.
-   *  Launched and led introductory coding workshops for 10+ students
-   *  Successfully coordinated all logistics for annual primary school sports events 100+ active participants.
+*  Aug 2019 – Mar 2020: Sports Coordinator, Ingenious Minds School, Jattu ED - NG
+   *  Coordinated all logistics for annual primary school sports events 100+ active participants.
 Supervisor: Dr Esosa Enoyoze (Proprietor, IMS)
   
 Skills
