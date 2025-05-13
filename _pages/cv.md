@@ -26,13 +26,13 @@ redirect_from:
 *  Key Competencies (Soft Skills): Effective Communication (written & verbal), Analytical Problem-Solving, Critical Thinking & Strategic Planning, collaborative Teamwork & Adaptability.
   
 ## Professional Experience
-*  **Network Services Engineer,** MIS Directorate, Federal Polytechnic Auchi, Edo State, NG (Jan 2017 – Aug 2024)  
+* **Network Services Engineer,** MIS Directorate, Federal Polytechnic Auchi, Edo State, NG (Jan 2017 – Aug 2024)  
   *  Provided comprehensive network administration and technical support for a campus infrastructure serving 5,000+ users and managing 300+ network devices (routers, switches, firewalls, APs).
   *  Achieved & maintained an average network uptime of 99.7% during on-duty time through proactive monitoring, maintenance, and timely issue resolution.
   *  Key contributor to major network infrastructure upgrade, including (expanding campus Wi-Fi coverage by 30% to 5 new zones, benefiting 1,000+ users, and assisting in the migration to a new ISP link].
   *  Supervisor: Dr. Evelyn Oduntan, Director, MIS
     
-*  **Sports Coordinator (Volunteer),** Ingenious Minds School, Jattu, Edo State, NG (Aug 2019 – Mar 2020)
+* **Sports Coordinator (Volunteer),** Ingenious Minds School, Jattu, Edo State, NG (Aug 2019 – Mar 2020)
   *  Coordinated all logistics for annual primary school sports events with 100+ active participants.
   *  Supervisor: Dr. Esosa Enoyoze (Proprietor, IMS)
 
