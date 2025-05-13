@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+[**Download CV (PDF)**](/files/cv.pdf){: .btn .btn--success}{:target="_blank"}
+*(You can also use `.btn--primary` or `.btn--info` for different button colors)*
 
 Education
 ======
