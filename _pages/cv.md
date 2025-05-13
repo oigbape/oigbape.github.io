@@ -15,8 +15,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, Georgia Institute of Technology, 2026 
-* B.S. in Computer Science, Edo State University Uzairue, 2023
+* **M.S. in Computer Science** | Georgia Institute of Technology, 2026 
+* **B.S. in Computer Science** | Edo State University Uzairue, 2023
 
 Work experience
 ======
