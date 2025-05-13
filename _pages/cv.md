@@ -70,6 +70,7 @@ redirect_from:
 
 * **Machine Learning for Chronic Kidney Disease (CKD) Risk Prediction** BSc AI Course Project, Edo State University Uzairue
     *  Key Tech: Python, Pandas, Matplotlib, Seaborn, Scikit-Learn
+    *  Performed comprehensive data cleaning and preprocessing (handling missing values, encoding), descriptive statistical analysis, exploratory data analysis (EDA) and visualization with pandas, SciPy, Matplotlib and Seaborn, respectively.
     *  Developed and evaluated supervised machine learning models (KNN, Decision Tree, Naive Bayes, Random Forest) to predict CKD from patient data, achieving up to 98% accuracy with Random Forest.
     *  Supervisor: Dr. Samuel Makinde
 
