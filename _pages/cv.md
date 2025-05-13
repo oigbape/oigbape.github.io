@@ -51,15 +51,50 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*  A Bayesian Learning Framework Powered by IoT for Enhancing Highway Safety and Reducing Accidents: A Case Study of Benin-Onitsha Express Way | J. E. Jibunor, B. B. Odigie, O. R. Igbape | Published in: International Journal of Research in Information and Applied Sciences (IJRIAS), November 15, 2024 | DOI: 10.51584/IJRIAS.2024.910032
+*  Takagi-Sugeno Integrated Fuzzy System in Subsurface Identification | I. Odesanya, K. E. Ukhurebor, I. U. Siloko, P. B. Olorunfemi, O. R. Igbape | Published in: Covenant Journal of Physical and Life Sciences, vol. 9, no. 2, 2021 | Retrieved from https://journals.covenantuniversity.edu.ng/index.php/cjpls/article/view/2870
   
 Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+**Secure Anonymous Credentials with zkSNARKs (zk-creds Demo)** | *zkSNARKs, Cryptography, [Python/Go?]*
+*Georgia Institute of Technology, MSc Project ([e.g., Spring 2025])*
+* Developed a proof-of-concept anonymous credential system using zkSNARKs for privacy-preserving attribute verification, implementing core cryptographic protocols.
+
+**Applied Cybersecurity: Vulnerability Analysis & Exploit Demonstrations** | *Python, C, GDB, SQLi, Buffer Overflow, RSA*
+*Georgia Institute of Technology, MSc Coursework ([e.g., Fall 2024])*
+* Implemented and analyzed common cyberattacks (e.g., SQL Injection, Buffer Overflows, Padding Oracle) and explored cryptographic principles like PKI and RSA.
+
+**Advanced Data Engineering & Visualization Applications** | *Spark, Docker, DataBricks, Azure, D3.js, Tableau, Python, LLMs*
+*Georgia Institute of Technology, MSc Coursework ([e.g., 2024-2025])*
+* Applied a modern data stack for large-scale data processing (Spark, Azure), ML model development (PageRank, Random Forest), containerization (Docker), and interactive data visualization (D3.js, Tableau).
+
+**IoT & Bayesian Learning Framework for Enhanced Highway Safety** | *IoT (ESP8266), Bayesian Learning, Python, ThingSpeak*
+*Published Research (IJRIAS), Nov 2024 (DOI: 10.51584/IJRIAS.2024.910032)*
+* Co-developed an IoT system using Bayesian learning to predict highway accident risks, achieving an AUC-ROC of 0.82 and contributing to a peer-reviewed publication.
+
+**Modelling a Cyber-Espionage Defence Framework for Fintech Platforms** | *Threat Modeling, Cybersecurity Frameworks*
+*BSc Final Thesis, Edo State University Uzairue (Nov 2023)*
+* Designed a multi-layered defense framework tailored to protect Nigerian Fintech platforms against cyber-espionage, based on comprehensive threat analysis and risk assessment.
+* *Supervisors: Prof. Wilson Nwankwo, Dr. Pascal Chinedu*
+
+**SQL Injection Attack Detection and Prevention Model** | *Python, SQL, [Pattern Matching/ML]*
+*BSc Project, Auchi Polytechnic ([Est. Year, e.g., 2023])*
+* Developed a model to detect and prevent SQL Injection attacks for an academic institution's portal, focusing on query analysis and [detection methodology].
+* *Supervisor: Dr. F. Chete*
+
+**Machine Learning for Chronic Kidney Disease (CKD) Risk Prediction** | *Python, Scikit-Learn, Pandas, Matplotlib*
+*BSc AI Course Project, Edo State University Uzairue ([Est. Year, e.g., 2023])*
+* Developed and evaluated machine learning models to predict CKD risk, achieving [e.g., X% accuracy/Y AUC] and identifying key contributing factors.
+* *Supervisor: Dr. Samuel Makinde*
+
+**Predictive Modelling of Student Academic Performance** | *[Python/Scikit-Learn or Weka/R], Data Mining Algorithms*
+*BSc Project, Edo State University Uzairue ([Est. Year, e.g., 2022])*
+* Conducted a comparative analysis of data mining techniques to predict student academic performance, identifying key influential factors from student data.
+* *Supervisors: Dr. Samuel Makinde, Dr. Samuel Omaji*
+
+**Takagi-Sugeno Fuzzy Logic for Subsurface Identification** | *Fuzzy Logic, Neural Networks, [MATLAB/Python?]*
+*Published Research (Covenant Journal of Physical and Life Sciences), Dec 2021*
+* Co-authored research applying a Takagi-Sugeno fuzzy system with neural network-based clustering to analyze petrophysical well log data for subsurface identification.
   
   
 Service and leadership
