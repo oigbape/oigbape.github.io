@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Georgia Institute of Technology, 2026 
+* B.S. in Computer Science, Edo State University Uzairue, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Dec. 2023 - Aug 2024: Graduate Assistant - Department of Computer Science
+  * Federal Polytechnic Auchi 
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Dr Evelyn Oduntan
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -47,7 +46,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Projects
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
