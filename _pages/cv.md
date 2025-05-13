@@ -11,10 +11,10 @@ redirect_from:
 
  
 <div class="text-center">
-  <h2<strong>Olamotse Roland Igbape</strong><br></h2>  
+  <h2><strong>Olamotse Roland Igbape</strong><br></h2>  
   <a href="mailto:oigbape3@gatech.edu">oigbape3@gatech.edu</a><br>
   <a href="https://linkedin.com/in/olamotse" target="_blank" rel="noopener noreferrer">linkedin.com/in/olamotse</a>
-  <a href="[**Download CV (PDF)**](/files/Igbape.pdf){: .btn .btn--success}{:target="_blank"}</a>
+           [**Download CV (PDF)**](/files/Igbape.pdf){: .btn .btn--success}{:target="_blank"}
 </div>
 
 ---
@@ -26,11 +26,7 @@ Education
 
 Work experience
 ======
-* Dec 2023 – Aug 2024: Instructor, Department of Computer Science, School of ICT, Federal Polytechnic Auchi, Edo State, NG
-  * Transitioned to this academic role after completing BSc in Computer Science with a 4.17/5.0 CGPA, Facilitated training for Data Comms & Networks to 200+ Higher National Diploma students and supervised 10+ student final National Diploma projects achieving a 100% on-time completion rate and 100% final project grade.
-  * Supervisor: Dr Evelyn Oduntan, Department of Computer Science
- 
-* Jan 2017 – Nov 2023: Network Engineer, MIS Directorate, Federal Polytechnic Auchi, Edo State, NG
+* Jan 2017 – Aug 2024: Network Engineer, MIS Directorate, Federal Polytechnic Auchi, Edo State, NG
   *  Provided comprehensive network administration and technical support for a campus infrastructure serving 5,000+ users and managing 300+ network devices (routers, switches, firewalls, APs), Achieved & maintained an average network uptime of 99.7% in during on-duty time through proactive monitoring, maintenance, and timely issue resolution.
   *  Supervisor: Dr. Evelyn Oduntan, Director, MIS  
     
