@@ -1,6 +1,6 @@
 ---
 title: "zk-creds-demo"
-order: 1
+order: 7
 excerpt: "Secure Anonymous Credentials with Zero-Knowledge Proofs (zkSNARKs), enabling privacy-preserving verification of attributes."
 collection: portfolio
 #date: "2025-04-24"
