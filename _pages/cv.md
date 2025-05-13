@@ -29,7 +29,16 @@ Work experience
 *  Aug 2019 – Mar 2020: Sports Coordinator, Ingenious Minds School, Jattu ED - NG
    *  Coordinated all logistics for annual primary school sports events 100+ active participants.
 Supervisor: Dr Esosa Enoyoze (Proprietor, IMS)
-  
+
+Teaching
+======
+* Jan 2017 – September 2018: Part time Instructor, Department of Computer Science, School of Evening Studies, Federal Polytechnic Auchi, Edo State, NG
+  *  Facilitated training for Data Comms & Networks to 200+ Higher National Diploma students and supervised 10+ student final National Diploma projects achieving a 100% on-time completion rate and 100% final project grade.
+Supervisor: Dr Evelyn Oduntan, Department of Computer Science
+*  Aug 2019 – Mar 2020: Volunteer Teacher & Coordinator, Ingenious Minds School, Jattu ED - NG
+  *  Taught Mathematics to 50+ primary students, achieving an average 15-20% improvement in student assessment scores.
+  *  Launched and led introductory coding workshops weekly where 10+ students participated.
+
 Skills
 ======
 * Programming Languages: Python (Proficient), Java (Intermediate), SQL (Proficient), C (Intermediate)
