@@ -68,4 +68,9 @@ Projects
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+*  Financial Secretary 
+  *  Electrical Staff Association Welfare Scheme, 2022 - 2024
+
+* Assistant Secretary-General
+  *  Auchi Polytechnic Association United Football Club, 2022 - 2024
