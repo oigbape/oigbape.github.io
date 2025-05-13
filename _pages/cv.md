@@ -69,8 +69,8 @@ redirect_from:
     *  Supervisor: Dr. F. Chete*
 
 * **Machine Learning for Chronic Kidney Disease (CKD) Risk Prediction** BSc AI Course Project, Edo State University Uzairue
-    *  Key Tech: Python, Scikit-Learn, Pandas, Matplotlib
-    *  Developed and evaluated machine learning models to predict CKD risk, achieving [e.g., X% accuracy/Y AUC] and identifying key contributing factors.
+    *  Key Tech: Python, Pandas, Matplotlib, Seaborn, Scikit-Learn
+    *  Developed and evaluated supervised machine learning models (KNN, Decision Tree, Naive Bayes, Random Forest) to predict CKD from patient data, achieving up to 98% accuracy with Random Forest.
     *  Supervisor: Dr. Samuel Makinde
 
 * **Predictive Modelling of Student Academic Performance** BSc Project, Edo State University Uzairue 
