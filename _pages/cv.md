@@ -32,26 +32,13 @@ Supervisor: Dr Esosa Enoyoze (Proprietor, IMS)
   
 Skills
 ======
-* Programming Languages:
-  *  Python (Proficient)
-  *  Java (Intermediate)
-  *  SQL (Proficient)
-  *  C (Intermediate)
-* Cloud Platforms & Data Technologies:
-  * Cloud: AWS, Google Cloud Platform (GCP)
-  * Data Processing & Analysis: [Consider adding specifics like Apache Spark, Pandas, NumPy if applicable]
-  * Data Cleaning & Preparation: Open Refine
-  * Data Visualization: Tableau, D3.js
-  * Databases: Relational Databases (e.g., SQLite, and MySQL)
-* Cybersecurity & Networking:
-  *  Security Tools & Concepts: SIEM (Security Information and Event Management), [Network Security Principles? e.g., Firewalls, IDS/IPS], [Data Encryption Concepts], [Identity & Access Management (IAM) Concepts?]
+* Programming Languages: Python (Proficient), Java (Intermediate), SQL (Proficient), C (Intermediate)
+* Cloud Platforms & Data Technologies: AWS, Google Cloud Platform (GCP), Open Refine, Tableau, D3.js, Relational Databases (e.g., SQLite, and MySQL)
+* Cybersecurity & Networking: 
+  *  Security Tools & Concepts: SIEM (Security Information and Event Management), Firewalls, IDS/IPS, Data Encryption Concepts, Identity & Access Management (IAM) Concepts
   *  Operating Systems: Linux (Administration, Shell Scripting, Command Line Interface)
   *  Developer Tools & Version Control: Git, GitHub
-*  Key Competencies (Soft Skills):
-   *  Effective Communication (written & verbal)
-   *  Analytical Problem-Solving
-   *  Critical Thinking & Strategic Planning
-   *  Collaborative Teamwork & Adaptability
+*  Key Competencies (Soft Skills): Effective Communication (written & verbal), Analytical Problem-Solving, Critical Thinking & Strategic Planning, collaborative Teamwork & Adaptability.
 
 Publications
 ======
