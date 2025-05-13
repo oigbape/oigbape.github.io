@@ -10,8 +10,8 @@ author_profile: true
 ## Federal Polytechnic Auchi, Edo State, NG
 **Part-time Instructor, Computer Science Dept., School of Evening Studies** *Jan 2017 – Dec 2017*
 
-* Facilitated training for the "Data Communications & Networks" course, engaging over 200 Higher National Diploma students.
-* Supervised more than 10 student final National Diploma projects, achieving a 100% on-time completion rate and contributing to a 100% final project pass rate for supervised students.
+* Facilitated training for the "Computer Application Packages" course for National Diploma and "Data Communications & Networks" course for Higher National Diploma programmes, engaging over 400 students.
+* Supervised 16 National Diploma Finals students, achieving a 100% on-time completion rate and contributing to a 100% final project pass rate for supervised students.
 * **Supervisor:** Mr Victor Obuda, Program Coordinator - Department of Computer Science, School of Evening Studies.
 
 ## Ingenious Minds School, Jattu ED - NG
