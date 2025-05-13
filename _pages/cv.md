@@ -69,7 +69,7 @@ Projects
 Service and leadership
 ======
 
-*  Financial Secretary
+* Financial Secretary
   *  Electrical Staff Association Welfare Scheme, 2022 - 2024
 
 * Assistant Secretary-General
