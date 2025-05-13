@@ -34,7 +34,9 @@ Modifying functional and non functional requirement in SW Architecture and Desig
 
 Fun fact:
 ======
-Football (Soccer) Star and a Manchester United FC fan
+Football Star (Soccer) 
+![image](https://github.com/user-attachments/assets/be91a36c-1576-42ec-8e54-3eaa31775050)
+MUFC 
  
 Thanks for visiting!
 ======
