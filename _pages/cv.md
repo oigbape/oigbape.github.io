@@ -48,8 +48,8 @@ redirect_from:
 
 ## Projects
 * **Secure Anonymous Credentials with zkSNARKs (zk-creds Demo)**
-    *  Key Technologies: zkSNARKs, Cryptography, [Python/Go?]
-    *  Developed a proof-of-concept anonymous credential system using zkSNARKs for privacy-preserving attribute verification, implementing core cryptographic protocols.
+    *  Key Technologies: zkSNARKs (Groth16), Rust (zkcreds-rs), Cryptography (Poseidon Hash, Merkle Trees), NFC (for data concept)
+    *  Demonstrated a flexible anonymous credential system using zkSNARKs (Groth16, Poseidon hash) and the zkcreds-rs library for privacy-preserving verification of attributes such as age on passport data.
 
 * **Applied Cybersecurity: Vulnerability Analysis & Exploit Demonstrations**
     *  Key Technologies: Python, C, GDB, SQLi, Buffer Overflow, RSA
