@@ -51,8 +51,8 @@ Skills
 
 Publications
 ======
-*  A Bayesian Learning Framework Powered by IoT for Enhancing Highway Safety and Reducing Accidents: A Case Study of Benin-Onitsha Express Way | J. E. Jibunor, B. B. Odigie, O. R. Igbape | Published in: International Journal of Research in Information and Applied Sciences (IJRIAS), November 15, 2024 | DOI: 10.51584/IJRIAS.2024.910032
-*  Takagi-Sugeno Integrated Fuzzy System in Subsurface Identification | I. Odesanya, K. E. Ukhurebor, I. U. Siloko, P. B. Olorunfemi, O. R. Igbape | Published in: Covenant Journal of Physical and Life Sciences, vol. 9, no. 2, 2021 | Retrieved from https://journals.covenantuniversity.edu.ng/index.php/cjpls/article/view/2870
+A Bayesian Learning Framework Powered by IoT for Enhancing Highway Safety and Reducing Accidents: A Case Study of Benin-Onitsha Express Way | J. E. Jibunor, B. B. Odigie, O. R. Igbape | Published in: International Journal of Research in Information and Applied Sciences (IJRIAS), November 15, 2024 | DOI: 10.51584/IJRIAS.2024.910032
+Takagi-Sugeno Integrated Fuzzy System in Subsurface Identification | I. Odesanya, K. E. Ukhurebor, I. U. Siloko, P. B. Olorunfemi, O. R. Igbape | Published in: Covenant Journal of Physical and Life Sciences, vol. 9, no. 2, 2021 | Retrieved from https://journals.covenantuniversity.edu.ng/index.php/cjpls/article/view/2870
   
 Projects
 ======
