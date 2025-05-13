@@ -28,7 +28,7 @@ Tableau, D3 Graphs, and Visualization
 SQLite, OpenRefine, Flask,
 zk-creds demo: Flexible anonymous credential system based on zkSNARKs,
 Hash lenght extension attack, Sql Injection, Buffer overflow, Padding Oracle attack, PKI, RSA Encryption and signature, Secret Key Encryption, Set UID, and Format String Attack,
-Modifying functional and non functional requirement in SW Architecture and Design
+Modifying functional and non functional requirement of an Enterprise System
 
 
 
