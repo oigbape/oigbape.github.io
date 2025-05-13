@@ -14,7 +14,7 @@ technologies: "zkSNARKs (Groth16), Rust (zkcreds-rs), Poseidon Hash, Merkle Tree
 ## Objective
 This project aimed to address the privacy challenges in traditional user authentication by implementing and evaluating an anonymous credential system based on core zk-creds principles. The specific use case was to enable a user to prove they are over 21 years old using the Date of Birth (DOB) from their passport (accessed conceptually via NFC) without revealing the actual DOB or other Personally Identifiable Information (PII).
 
-## Our Role & Contributions
+## Role & Contributions
 * Collaborated on researching foundational concepts of Anonymous Credentials (AC), the zk-creds system by Rosenberg et al. (2023), and enabling technologies like zkSNARKs (Groth16) and the Poseidon hash function.
 * Contributed to the design of the system flow, including credential issuance using Merkle trees, presentation with zero-knowledge proofs, and verification against a defined predicate (age > 21).
 * Worked with the `zkcreds-rs` Rust library to implement the core cryptographic operations for the age verification demo.
