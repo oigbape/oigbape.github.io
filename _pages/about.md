@@ -19,7 +19,7 @@ Research Interests:
 ======
 Secure Data Engineering
 
-My Projects (More to come!)
+Projects (More to come!)
 ======
 Urbanization trend visualization using D3.js for charts and choropleth maps,
 PageRank Algorithm, Random Forest, SciKit Learn, LLM,
