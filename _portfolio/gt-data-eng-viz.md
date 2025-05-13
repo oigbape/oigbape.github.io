@@ -1,21 +1,19 @@
 ---
 title: "Advanced Data Engineering & Visualization Projects (GT)"
 collection: portfolio
-excerpt: "Applied Spark, DataBricks, Azure, Docker, and D3.js/Tableau in various MSc projects for large-scale data processing, machine learning (PageRank, Random Forest, LLMs), and interactive visualization of urbanization trends."
+excerpt: "Modeling urbanization's impact on coastal ecosystems (XGBoost, SHAP, D3.js dashboard) and advanced data engineering projects covering TMDB API, SQLite, Flask, Tableau, D3.js (graphs, interactivity, maps), Azure ML, Spark/Scala on DataBricks, PageRank, Random Forest from scratch, Scikit-Learn, and LLM API integration."
 date: 2025-04-28 
 tags: [Data Engineering, Big Data, Spark, Azure, Docker, D3.js, Tableau, Machine Learning, Visualization, Python, Flask]
-technologies: "Spark, Docker, DataBricks, Azure, D3.js, Tableau, Python, Scikit-Learn, Flask, LLM"
-github_url: "[Link to primary GitHub repo or a summary page for these projects]"
+technologies: "Python, D3.js, Tableau, SQLite, Flask, Spark (Scala), Azure ML, DataBricks, Scikit-Learn, XGBoost, SHAP, PageRank, Random Forest, LLM APIs"
+#github_url: "[Link to primary GitHub repo or a summary page for these projects]"
 # live_demo_url: "[Link to a key demo if applicable]"
 # image_path: "/images/portfolio/gt-data-viz-teaser.png"
 ---
 
  ## Objective
-To apply advanced data engineering techniques, cloud platforms, and visualization tools to analyze complex datasets, build predictive models, and create interactive data-driven applications. *(Be more specific here by describing 1-2 overarching goals for these combined experiences or separate them into distinct projects if they were truly separate efforts).*
+To apply advanced data engineering techniques, cloud platforms, and visualization tools to analyze complex datasets, build predictive models, and create interactive data-driven applications. For a specific project, to evaluate the impacts of district-level urban development on Guangdong Province's coastal water quality, specifically examining the transmission of these impacts through the river-sea interface to nearshore zones, and to identify key urban drivers. 
 
 ## Key Projects & Contributions
-*(Structure this section based on how distinct these efforts were. Below are examples if grouped; if they were separate course projects, give each its own `## Project Title` like "Urbanization Trend Visualization" and then list contributions for that specific one.)*
-
 * **Urbanization Trend Visualization:**
     * Designed and developed interactive charts and choropleth maps using D3.js to visualize **[global/national/regional]** urbanization trends from **[specific data source, e.g., World Bank Data]**.
     * Processed and structured **[e.g., demographic/geospatial]** data to highlight key patterns and changes over a **[e.g., 20-year]** period, enabling dynamic exploration.
