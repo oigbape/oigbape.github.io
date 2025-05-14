@@ -23,8 +23,8 @@ repository               : "oigbape/oigbape.github.io"
 author:
   # Biographic information
   avatar           : "oigbape.jpg"
-  name             : "&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Roland" 
-  bio              : "Graduate Student"
+  name             : "&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Roland" 
+  bio              : "&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; Graduate Student"
   location         : #"Shenzhen"
   employer         : "Georgia Tech"
   uri              : # URL
