@@ -3,7 +3,7 @@ title: "Machine Learning for Chronic Kidney Disease (CKD) Risk Prediction"
 order: 6
 collection: portfolio
 excerpt: "Developed and evaluated multiple machine learning models (Python, Scikit-Learn) to predict Chronic Kidney Disease, achieving 98% accuracy with Random Forest. Performed extensive data cleaning and EDA. BSc AI course project."
-date: 2023-03-12 # Approx. completion date for CSC 414
+#date: 2023-03-12 # Approx. completion date for CSC 414
 tags: [Machine Learning, Python, Scikit-Learn, Pandas, Data Analysis, Healthcare, Data Cleaning, EDA]
 technologies: "Python, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy"
 #github_url: "[Link to GitHub repo if available]"
