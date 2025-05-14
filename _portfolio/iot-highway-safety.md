@@ -1,5 +1,6 @@
 ---
 title: "IoT & Bayesian Learning Framework for Enhanced Highway Safety"
+order: 4
 collection: portfolio
 excerpt: "Co-developed and published an IoT-based system using Bayesian learning to predict accident risks on a major Nigerian expressway, achieving an AUC-ROC of 0.82 and observing reduced accident rates."
 date: 2024-11-15 # Publication date
