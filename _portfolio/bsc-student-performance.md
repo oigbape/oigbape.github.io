@@ -1,5 +1,6 @@
 ---
 title: "Predictive Modelling of Student Academic Performance: A Comparative Analysis"
+order: 5
 collection: portfolio
 excerpt: "Conducted a comparative study of data mining techniques ([e.g., Decision Trees, SVM]) to predict student academic performance and identify key influencing factors. BSc project."
 #date: YYYY-MM-DD # Approx. completion date
