@@ -1,5 +1,6 @@
 ---
 title: "Takagi-Sugeno Fuzzy Logic for Subsurface Identification (Published Research)"
+order: 7
 collection: portfolio
 excerpt: "Co-authored research applying a Takagi-Sugeno fuzzy inference system to analyze petrophysical well log data for rapid and detailed subsurface lithology and fluid identification. Published in Covenant Journal of Physical and Life Sciences."
 date: 2021-12-23 # Publication date
