@@ -23,8 +23,7 @@ repository               : "oigbape/oigbape.github.io"
 author:
   # Biographic information
   avatar           : "oigbape.jpg"
-  name             : "/*        */ Roland"
-  pronouns         : # example: "she/her"  
+  name             : "&nbsp; &nbsp; &nbsp;Roland" 
   bio              : "Graduate Student"
   location         : #"Shenzhen"
   employer         : "Georgia Tech"
