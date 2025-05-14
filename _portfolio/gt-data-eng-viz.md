@@ -1,5 +1,6 @@
 ---
 title: "Advanced Data Engineering & Visualization Projects (GT)"
+order: 3
 collection: portfolio
 excerpt: "Modeling urbanization's impact on coastal ecosystems (XGBoost, SHAP, D3.js dashboard) and advanced data engineering projects covering TMDB API, SQLite, Flask, Tableau, D3.js (graphs, interactivity, maps), Azure ML, Spark/Scala on DataBricks, PageRank, Random Forest from scratch, Scikit-Learn, and LLM API integration."
 date: 2025-04-28 
