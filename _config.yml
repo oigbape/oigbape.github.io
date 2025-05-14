@@ -22,8 +22,8 @@ repository               : "oigbape/oigbape.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : #"Preferred name: Roland"
+  avatar           : "oigbape.jpg"
+  name             : "/*        */ Roland"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student"
   location         : #"Shenzhen"
