@@ -36,5 +36,5 @@ This project aimed to address the privacy challenges in traditional user authent
 * The project highlighted the potential of advanced cryptographic techniques to enhance user privacy in digital interactions, moving beyond traditional identification methods.
 
 ## Artifacts
-* **Project Repository (Georgia Tech):** [info_security_project](https://github.gatech.edu/rhoopchuk3/info_security_project) *(Note: This link may require Georgia Tech authentication. For a public portfolio, consider hosting a sanitized/public version if possible, or clearly noting it's an institutional link).*
-* **Project Report:** [Flexible Anonymous Credentials Report](https://gatech.box.com/s/cfhgmcc5x3hm6wrlcskxv0zsayk4y7ke)
+* **Project Repository:**  
+* **Project Report:**  
