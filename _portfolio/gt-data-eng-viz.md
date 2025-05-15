@@ -11,8 +11,9 @@ technologies: "Python, D3.js, Tableau, SQLite, Flask, Spark (Scala), Azure ML, D
 # image_path: "/images/portfolio/gt-data-viz-teaser.png"
 ---
 
- ## Project 1
-* **Objective:**
+
+## Project 1
+* **Modeling Urbanization’s Impact on Coastal Ecosystem Health:**
 To evaluate the impacts of district-level urban development on Guangdong Province's coastal water quality, specifically examining the transmission of these impacts through the river-sea interface to nearshore zones, and to identify key urban drivers. 
 
 * **Role & Contributions:**
@@ -24,18 +25,18 @@ To evaluate the impacts of district-level urban development on Guangdong Provinc
     * Developed an interactive D3.js dashboard allowing users to explore spatial and temporal relationships between urban development and water quality.
     * Gained significant experience in a multi-stage modeling approach, time series analysis, spatial data handling, interpretable machine learning, and advanced data visualization.
 * **Artifacts:**
-    * **Final Project Report:**  
-    * **Interactive Dashboard Demo:**  
-    * **GitHub Repository (if applicable):** 
+    * Report:
+    * Interactive Dashboard Demo:
+    * GitHub Repository: 
 
 ## Project 2
-* **HW1: End-to-End Data Wrangling & Web Application Basics**
+* **End-to-End Data Wrangling & Web Application**
     * **Data Acquisition & Graph Construction:** Extracted data from The Movie Database (TMDB) API using Python's standard library (`urllib`) to build a co-actor network graph.
     * **Database Management:** Designed and populated an SQLite database with movie and cast information; performed vertical partitioning and created indexes for query optimization. Executed complex SQL queries for data analysis and retrieval.
     * **Data Cleaning:** Utilized OpenRefine and GREL (General Refine Expression Language) to clean and transform messy datasets.
     * **Basic Web Development:** Developed a simple single-page web application using Python Flask to display tabular data.
     * **Introductory Visualization:** D3.js (v5) warm-up creating a bar plot of movie release trends.
-    * *Key Technologies: Python (std lib), SQLite, SQL, D3.js (v5 basics), OpenRefine, GREL, Flask.*
+    * **Key Technologies:** Python (std lib), SQLite, SQL, D3.js (v5 basics), OpenRefine, GREL, Flask.
 
 ## Project 3
 * **Advanced Data Visualization**
@@ -44,13 +45,13 @@ To evaluate the impacts of district-level urban development on Guangdong Provinc
     * **Time-Series Visualization:** Developed D3.js line charts to visualize temporal patterns in board game ratings, including adding symbols for rankings and comparing the effects of different y-axis scales (linear, square root, log).
     * **Complex Interactive Dashboards:** Built an interactive D3.js line chart that, upon mouseover of data points, dynamically generated a sub-bar chart displaying related top-N data.
     * **Geospatial Visualization:** Created interactive choropleth maps in D3.js using GeoJSON to display board game ratings by country, incorporating dropdown selectors for game selection, quantile color scales, dynamic legends, and tooltips (d3-tip).
-    * *Key Technologies: Tableau, D3.js (v5 advanced: force layouts, line charts, interactivity, scales, choropleth maps, GeoJSON, d3-tip).*
+    * **Key Technologies:** Tableau, D3.js (v5 advanced: force layouts, line charts, interactivity, scales, choropleth maps, GeoJSON, d3-tip).
 
 ## Project 4
 * **Cloud Machine Learning & Big Data Processing**
     * **Cloud ML Platforms:** Utilized Microsoft Azure Machine Learning Studio to build and evaluate a regression model for automobile price prediction, including data splitting and k-fold cross-validation.
     * **Big Data with Spark:** Analyzed large datasets (NYC trip data) using Apache Spark with Scala on the DataBricks platform. Performed complex DataFrame operations (joins, aggregations, filtering, sorting, window functions implicitly) to derive insights on popular locations, borough activity, and temporal pickup patterns.
-    * *Key Technologies: Microsoft Azure Machine Learning Studio, Apache Spark (Scala API, DataFrames), DataBricks.*
+    * **Key Technologies:** Microsoft Azure Machine Learning Studio, Apache Spark (Scala API, DataFrames), DataBricks.
 
 ## Project 5
 * **Algorithm Implementation & Advanced Machine Learning**
@@ -58,4 +59,4 @@ To evaluate the impacts of district-level urban development on Guangdong Provinc
     * **Machine Learning from Scratch:** Implemented a Random Forest classifier from scratch in Python (Jupyter Notebook), including functions for entropy, information gain, bootstrapping, and Out-of-Bag (OOB) error estimation.
     * **Applied Machine Learning with Scikit-Learn:** Utilized Scikit-Learn in Python to train, tune (GridSearchCV), and evaluate various classifiers (Linear Regression, Random Forest, Support Vector Machines with StandardScaler preprocessing) on the Pima Indians diabetes dataset. Performed Principal Component Analysis (PCA) for dimensionality reduction.
     * **LLM API Integration:** Developed a Python program to simulate a moderated academic discussion using the DeepSeek API (OpenAI-compatible), featuring customizable participants, discussion rounds, real-time streaming responses, and automated summary generation.
-    * *Key Technologies: Python, PageRank, Random Forest (implementation), Scikit-Learn (Linear Regression, RF, SVM, PCA, GridSearchCV, StandardScaler), LLM APIs (DeepSeek/OpenAI).*
+    * **Key Technologies:** Python, PageRank, Random Forest (implementation), Scikit-Learn (Linear Regression, RF, SVM, PCA, GridSearchCV, StandardScaler), LLM APIs (DeepSeek/OpenAI).
