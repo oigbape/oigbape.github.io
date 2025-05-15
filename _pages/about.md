@@ -18,7 +18,7 @@ Passionate about using technology to solve real problems such as making systems 
 ## 📚 Education
 - **M.S. Computer Science**  
   Georgia Institute of Technology | 2026  
-  Specialization: Machine Learning & Cybersecurity  
+  Specialization: Interactive Intelligence  
 
 - **B.Sc. Computer Science**  
   Edo State University Uzairue | 2023  
