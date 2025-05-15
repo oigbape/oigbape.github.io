@@ -36,7 +36,6 @@ To develop a predictive system leveraging IoT and Bayesian learning to enhance r
 * Peer-reviewed publication in the *International Journal of Research in Information and Applied Sciences (IJRIAS)*.
 
 ## Artifacts
-* **Publication (DOI):** [10.51584/IJRIAS.2024.910032](https://doi.org/10.51584/IJRIAS.2024.910032)
-* **Paper PDF:** [Link to PDF if shareable, or use DOI link](https://doi.org/10.51584/IJRIAS.2024.910032)
+* **Paper:** [Link to PDF ](https://doi.org/10.51584/IJRIAS.2024.910032)
 * **GitHub Repository:** 
 * **Presentation Slides:**  
