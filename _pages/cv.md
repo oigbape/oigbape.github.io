@@ -59,22 +59,22 @@ redirect_from:
     *  Key Technologies: Spark, Docker, DataBricks, Azure, D3.js, Tableau, Python, LLMs
     *  Applied a modern data stack for large-scale data processing (Spark, Azure), ML model development (PageRank, Random Forest), containerization (Docker), and interactive data visualization (D3.js, Tableau).
 
-* **IoT & Bayesian Learning Framework for Enhanced Highway Safety** (Published Research (IJRIAS), Nov 2024 (DOI: 10.51584/IJRIAS.2024.910032)) 
+* **IoT & Bayesian Learning Framework for Enhanced Highway Safety**  
     *  Key Technologies: IoT (ESP8266), Bayesian Learning, Python, ThingSpeak
     *  Co-developed an IoT system using Bayesian learning to predict highway accident risks, achieving an AUC-ROC of 0.82 and contributing to a peer-reviewed publication.
 
 * **SQL Injection Attack Detection and Prevention Model** 
-    *  Key Tech: Python, SQL, [Pattern Matching/ML]
+    *  Key Tech: PHP, MySQL, Apache, Regular Expressions, .htaccess, MD5 hashing
     *  Developed a model to detect and prevent SQL Injection attacks for an academic institution's portal, focusing on query analysis and a hybrid signature-anomaly detection methodology, achieving 100% blocking of malicious payloads (e.g., UNION-based, blind SQLi, hex-encoded attacks) during testing through real-time query sanitization and automated IP blocking.
     *  Supervisor: Dr. F. Chete
 
-* **Machine Learning for Chronic Kidney Disease (CKD) Risk Prediction** BSc AI Course Project, Edo State University Uzairue
+* **Machine Learning for Chronic Kidney Disease (CKD) Risk Prediction** 
     *  Key Tech: Python, Pandas, Matplotlib, Seaborn, Scikit-Learn
     *  Performed comprehensive data cleaning and preprocessing (handling missing values, encoding), descriptive statistical analysis, exploratory data analysis (EDA) and visualization with pandas, SciPy, Matplotlib and Seaborn, respectively.
     *  Developed and evaluated supervised machine learning models (KNN, Decision Tree, Naive Bayes, Random Forest) to predict CKD from patient data, achieving up to 98% accuracy with Random Forest.
     *  Supervisor: Dr. Samuel Makinde
 
-* **Predictive Modelling of Student Academic Performance** BSc Project, Edo State University Uzairue 
+* **Predictive Modelling of Student Academic Performance** 
     *  Key Tech: Java, Weka, Data Mining Algorithms
     *  Conducted a comparative analysis of data mining techniques to predict student academic performance, identifying key influential factors from student data.
     *  Supervisors: Dr. Samuel Makinde, and Dr. Samuel Omaji
