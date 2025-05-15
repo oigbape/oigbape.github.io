@@ -16,14 +16,44 @@ redirect_from:
 * **M.Sc. Computer Science,** Georgia Institute of Technology, Atlanta, GA, USA (May 2026)
 * **B.Sc. Computer Science,** Edo State University Uzairue, Edo State, NG (Nov 2023)
 
-## Skills
-* **Programming Languages:** Python (Proficient), Java (Intermediate), SQL (Proficient), C (Intermediate), Rust
-* **Cloud Platforms, Data Technologies, AI/ML:** AWS (Reinforcement Learning with DeepRacer), Google Cloud Platform (GCP), Apache Spark, Docker, DataBricks
-* **Data Tools and Databases::** OpenRefine, Tableau, D3.js, SQLite, MySQL
-* **Cybersecurity & Networking:** Security Tools, SIEM, Firewalls, IDS/IPS, Data Encryption Concepts, Identity & Access Management (IAM), Zero-Knowledge Proofs (zkSNARKs), Anonymous Credentials, Applied Cryptography (Merkle Trees, Poseidon Hash), Privacy-Preserving Technologies
-* **Operating Systems:** Linux (Administration, Shell Scripting, Command Line Interface)
-* **Developer Tools & Version Control:** Git, GitHub
-* **Key Competencies:** Effective Communication (Written & Verbal), Analytical Problem-Solving, Critical Thinking, Strategic Planning, Collaborative Teamwork, Adaptability
+## Technical Skills  
+**Programming Languages:**  
+- Python (Proficient: CKD Prediction, Data Engineering)  
+- PHP (Proficient: SQL Injection Prevention System)  
+- SQL (Proficient: Database Design/Query Optimization)  
+- Rust (Intermediate: zkSNARKs Implementation)  
+- Java (Intermediate: Android Development, OOP Concepts)  
+- C (Intermediate: Systems Programming, Exploit Analysis)  
+
+**Cybersecurity & Cryptography:**  
+- Web Application Security (Proficient: SQLi Detection/Prevention, Input Validation)  
+- zkSNARKs (Intermediate: Anonymous Credentials)  
+- Applied Cryptography (Merkle Trees, Poseidon Hash, MD5/SHA Algorithms)  
+- Network Security (Firewalls, IDS/IPS, SIEM Concepts)  
+- Privacy-Preserving Technologies (Zero-Knowledge Proofs, Attribute-Based Credentials)  
+
+**Cloud & Data Technologies:**  
+- AWS (Intermediate: Reinforcement Learning with DeepRacer)  
+- Google Cloud Platform (GCP) (Intermediate: Cloud Architecture)  
+- Apache Spark (Familiar: Large-Scale Data Processing)  
+- Docker (Intermediate: Containerization for ML Workflows)  
+- Databricks (Familiar: Collaborative Data Analytics)  
+
+**Databases & Data Tools:**  
+- MySQL (Proficient: Academic Portal Backend)  
+- SQLite (Intermediate: Embedded Systems)  
+- Tableau (Proficient: Interactive Dashboards)  
+- OpenRefine (Intermediate: Data Cleaning/Wrangling)  
+
+**Web & System Administration:**  
+- Apache Server (Proficient: .htaccess Configuration, IP Blocking)  
+- Linux (Proficient: Administration, Shell Scripting, CLI)  
+- Git/GitHub (Proficient: Version Control, CI/CD Pipelines)  
+
+**Analytical & Soft Skills:**  
+- Threat Analysis & Mitigation (SQLi, Buffer Overflows)   
+- Technical Documentation (Project Reports, Security Policies)  
+- Agile Problem-Solving, Stakeholder Communication, Mentorship  
   
 ## Professional Experience
 * **Network Services Engineer,** MIS Directorate, Federal Polytechnic Auchi, Edo State, NG (Jan 2017 – Aug 2024)  
