@@ -2,7 +2,7 @@
 title: "IoT & Bayesian Learning Framework for Enhanced Highway Safety"
 order: 4
 collection: portfolio
-excerpt: "Co-developed and published an IoT-based system using Bayesian learning to predict accident risks on a major Nigerian expressway, achieving an AUC-ROC of 0.82 and observing reduced accident rates."
+excerpt: "Co-authored a published paper on an IoT and Bayesian Learning framework to predict and reduce highway accidents, achieving an AUC-ROC of 0.82 and demonstrating a decrease in accident rates."
 date: 2024-11-15 # Publication date
 #tags: [IoT, Machine Learning, Bayesian Learning, Data Engineering, Road Safety, Python, ESP8266, ThingSpeak, Published Research]
 technologies: "IoT (ESP8266), Bayesian Learning, Python, Pandas, ThingSpeak"
@@ -16,28 +16,27 @@ paper_url: "https://doi.org/10.51584/IJRIAS.2024.910032"
 To develop a predictive system leveraging IoT and Bayesian learning to enhance road safety and reduce accidents on the Benin-Onitsha Express Way, Nigeria, addressing the problem of frequent accidents.
 
 ## My Role & Contributions
-* Contributed to the design of the IoT framework for real-time data collection from vehicles (location, speed) and road conditions.
-* Involved in the analysis of **[e.g., three years]** of historical accident data to identify high-risk patterns and contributing factors.
-* Assisted in the development and implementation of the Bayesian learning model for accident risk prediction.
-* Worked with ESP8266-based client devices for in-vehicle data gathering and transmission mechanisms (Wi-Fi/GSM).
-* Utilized ThingSpeak IoT platform for data aggregation, storage, and visualization, enabling real-time monitoring.
-* Participated in evaluating model performance, including AUC-ROC, precision, and recall analysis.
+* Collaborated on the conceptualization and design of the IoT framework, including the selection of appropriate hardware components (ESP8266, sensors) and the data transmission strategy (Wi-Fi/GSM).
+* Participated in defining the methodology for analyzing three years of historical accident data to identify high-risk areas and key predictive features.
+* Contributed to the aspects related to the application of Bayesian learning techniques for developing the accident risk prediction model.
+* Assisted in the data flow design for transmitting vehicle data (location, speed, road conditions) to a central server and utilizing the ThingSpeak IoT platform for data storage, analysis, and visualization.
+* Involved in the interpretation of results, including the model's performance metrics (AUC-ROC, precision, recall) and the analysis of the system's impact on accident reduction.
+* Co-authored the research paper, contributing to sections related to methodology and system architecture.
 
 ## Technologies Used
-* **IoT:** ESP8266, GSM/Wi-Fi communication
-* **Cloud Platform:** ThingSpeak
-* **Machine Learning:** Bayesian Learning techniques
-* **Data Analysis:** Python, Pandas, **[Specific libraries for Bayesian modeling if used]**
-* **Data Visualization:** ThingSpeak dashboards, **[Matplotlib/Seaborn if used for analysis]**
+* **IoT Hardware:** ESP8266-development board, SIM800L GSM module, GPS-uBlox Neo 6M, 16x2 I2C LCD, Buzzer.
+* **IoT Platform:** ThingSpeak (for data storage, visualization, and real-time monitoring).
+* **Machine Learning:** Bayesian Learning (specifically Naïve Bayes).
+* **Programming/Development:** Arduino IDE (for programming NodeMCU ESP8266).
+* **Data Communication:** Wi-Fi, GSM.
 
 ## Key Outcomes & Achievements
-* Co-authored a peer-reviewed paper: "A Bayesian Learning Framework Powered by IoT for Enhancing Highway Safety and Reducing Accidents: A Case Study of Benin-Onitsha Express Way," published in the International Journal of Research in Information and Applied Sciences (IJRIAS).
-* The developed Bayesian model achieved an Area Under the ROC Curve (AUC-ROC) of 0.82, indicating excellent discrimination between high-risk and low-risk areas.
-* The system demonstrated 75% precision and 80% recall in risk prediction.
-* A comparative analysis indicated a notable decrease in reported accidents (from 25 to 15 in the case study area) post-system deployment, suggesting a significant positive impact on safety.
+* Successfully co-developed an IoT framework and Bayesian learning model that effectively identified accident-prone locations, achieving an **AUC-ROC of 0.82**, demonstrating **75% precision and 80% recall** in predicting high-risk areas.
+* System showed a **reduction in reported accidents from 25 to 15** in the monitored expressway segment after deployment, indicating a positive impact on highway safety.
+* Peer-reviewed publication in the *International Journal of Research in Information and Applied Sciences (IJRIAS)*.
 
 ## Artifacts
 * **Publication (DOI):** [10.51584/IJRIAS.2024.910032](https://doi.org/10.51584/IJRIAS.2024.910032)
 * **Paper PDF:** [Link to PDF if shareable, or use DOI link](https://doi.org/10.51584/IJRIAS.2024.910032)
-* **GitHub Repository:** [Link to code/analysis (if available)]([YOUR_GITHUB_REPO_LINK_HERE])
-* **Presentation Slides:** [Link to slides (if any)]([YOUR_SLIDES_LINK_HERE])
+* **GitHub Repository:** 
+* **Presentation Slides:**  
