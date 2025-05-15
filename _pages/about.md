@@ -17,10 +17,10 @@ Passionate about designing resilient systems that blend security, privacy, and s
 
 ## 📚 Education
 - **M.S. Computer Science**  
-  Georgia Institute of Technology | 2024–2026  
+  Georgia Institute of Technology | 2026  
   Specialization: Machine Learning & Cybersecurity  
 
-- **B.Sc. Computer Science (Summa Cum Laude)**  
+- **B.Sc. Computer Science**  
   Edo State University Uzairue | 2023  
 
 ---
@@ -29,34 +29,30 @@ Passionate about designing resilient systems that blend security, privacy, and s
 
 ### 🔒 Anonymous Age Verification (zk-creds)  
 Built a zero-knowledge credential system using Rust and zkSNARKs to prove age ≥21 without revealing birthdates.  
-*[Tech: Rust, Groth16, Merkle Trees, Poseidon Hash]*  
+Tech: Rust, Groth16, Merkle Trees, Poseidon Hash 
 
-### 📊 Urbanization Trend Analyzer  
+### 🔐 Applied Cybersecurity   
+Demonstrated exploitation and mitigation of memory corruption (buffer overflows, format strings), cryptographic flaws (AES/RSA, PRNGs, padding oracles), and system vulnerabilities (Set-UID, PKI) in controlled labs.
+Tech: C, Python, GDB, OpenSSL, ASLR/NX bypass, Linux
+
+### 📊 Urbanization Trend Analysis  
 Visualized demographic shifts across 15+ metrics using interactive D3.js choropleth maps and Tableau dashboards.  
-*[Tech: D3.js, Tableau, Flask, Python]*  
+Tech: D3.js, Tableau, Flask, Python  
 
 ### 🛡️ SQL Injection Defense System  
-Deployed hybrid detection model (signature + anomaly) blocking 100% of attacks for 5,000+ academic portal users.  
-*[Tech: PHP, MySQL, Apache, .htaccess]*  
+Deployed hybrid detection model (signature + anomaly) blocking  30+ SQLi variants (e.g., UNION-based, blind SQLi, hex-encoded payloads), achieving 100% detection/blocking accuracy.  
+Tech: PHP, MySQL, Apache, .htaccess
 
 ### 🤖 IoT Highway Safety Predictor  
 Co-developed Bayesian accident-risk model (AUC-ROC: 0.82) published in peer-reviewed journal *IJRIAS*.  
-*[Tech: Python, ESP8266, Bayesian Learning]*  
+Tech: Python, ESP8266, Bayesian Learning  
 
-### 🔐 Applied Cybersecurity Lab  
-Explored vulnerabilities including buffer overflows, PKI weaknesses, and RSA implementation flaws.  
-*[Tech: C, GDB, Padding Oracle Attacks]*  
+ 
 
-[Explore all projects on GitHub →](https://github.com/olamotse){: .btn .btn--success}
+[Explore all projects  →](https://oigbape.github.io/portfolio/){: .btn .btn--success}
 
 ---
 
-## 🔬 Research Interests
-- Privacy-Preserving Data Pipelines  
-- Secure Machine Learning  
-- Post-Quantum Cryptography  
-
----
 
 ## ⚡ Beyond Code
 - ⚽ **Weekend Striker**: Lifelong Manchester United supporter and amateur league player  
