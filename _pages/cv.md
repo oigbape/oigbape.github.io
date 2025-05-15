@@ -18,7 +18,7 @@ redirect_from:
 
 ## Skills
 * **Programming Languages:** Python (Proficient), Java (Intermediate), SQL (Proficient), C (Intermediate), Rust
-* **Cloud Platforms, Data Technologies, AI/ML:** AWS (incl. Amazon SageMaker for Reinforcement Learning with DeepRacer), Google Cloud Platform (GCP), Apache Spark, Docker, DataBricks
+* **Cloud Platforms, Data Technologies, AI/ML:** AWS (Reinforcement Learning with DeepRacer), Google Cloud Platform (GCP), Apache Spark, Docker, DataBricks
 * **Data Tools and Databases::** OpenRefine, Tableau, D3.js, SQLite, MySQL
 * **Cybersecurity & Networking:** Security Tools, SIEM, Firewalls, IDS/IPS, Data Encryption Concepts, Identity & Access Management (IAM), Zero-Knowledge Proofs (zkSNARKs), Anonymous Credentials, Applied Cryptography (Merkle Trees, Poseidon Hash), Privacy-Preserving Technologies
 * **Operating Systems:** Linux (Administration, Shell Scripting, Command Line Interface)
