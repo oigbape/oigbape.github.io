@@ -13,17 +13,17 @@ redirect_from:
   <a href="https://linkedin.com/in/olamotse" target="_blank" rel="noopener noreferrer">linkedin.com/in/olamotse</a><br><br></div>
 ---
 ## Education
-* **M.S. in Computer Science,** Georgia Institute of Technology, Atlanta, GA, USA (May 2026)
-* **B.S. in Computer Science,** Edo State University Uzairue, Edo State, NG (Nov 2023)
+* **M.Sc. Computer Science,** Georgia Institute of Technology, Atlanta, GA, USA (May 2026)
+* **B.Sc. Computer Science,** Edo State University Uzairue, Edo State, NG (Nov 2023)
 
 ## Skills
-* Programming Languages: Python (Proficient), Java (Intermediate), SQL (Proficient), C (Intermediate)
-* Cloud Platforms & Data Technologies: AWS, Google Cloud Platform (GCP), Open Refine, Tableau, D3.js, Relational Databases (e.g., SQLite, and MySQL)
-* Cybersecurity & Networking: 
-  *  Security Tools & Concepts: SIEM (Security Information and Event Management), Firewalls, IDS/IPS, Data Encryption Concepts, Identity & Access Management (IAM) Concepts
-  *  Operating Systems: Linux (Administration, Shell Scripting, Command Line Interface)
-  *  Developer Tools & Version Control: Git, GitHub
-* Key Competencies (Soft Skills): Effective Communication (written & verbal), Analytical Problem-Solving, Critical Thinking & Strategic Planning, collaborative Teamwork & Adaptability.
+* **Programming Languages:** Python (Proficient), Java (Intermediate), SQL (Proficient), C (Intermediate), Rust
+* **Cloud Platforms, Data Technologies, AI/ML:** AWS (incl. Amazon SageMaker for Reinforcement Learning with DeepRacer), Google Cloud Platform (GCP), Apache Spark, Docker, DataBricks
+* **Data Tools and Databases::** OpenRefine, Tableau, D3.js, SQLite, MySQL
+* **Cybersecurity & Networking:** Security Tools, SIEM, Firewalls, IDS/IPS, Data Encryption Concepts, Identity & Access Management (IAM), Zero-Knowledge Proofs (zkSNARKs), Anonymous Credentials, Applied Cryptography (Merkle Trees, Poseidon Hash), Privacy-Preserving Technologies
+* **Operating Systems:** Linux (Administration, Shell Scripting, Command Line Interface)
+* **Developer Tools & Version Control:** Git, GitHub
+* **Key Competencies:** Effective Communication (Written & Verbal), Analytical Problem-Solving, Critical Thinking, Strategic Planning, Collaborative Teamwork, Adaptability
   
 ## Professional Experience
 * **Network Services Engineer,** MIS Directorate, Federal Polytechnic Auchi, Edo State, NG (Jan 2017 – Aug 2024)  
