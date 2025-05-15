@@ -11,7 +11,7 @@ redirect_from:
 # 👋 Welcome to My Corner of the Web!
 
 **MSCS Student @ Georgia Tech** | Building Secure & Intelligent Systems  
-Passionate about designing resilient systems that blend security, privacy, and scalability. Currently exploring zero-knowledge proofs, threat mitigation, and privacy-preserving data engineering.
+Passionate about using technology to solve real problems such as making systems more secure, data more meaningful, or AI more accessible. 
 
 ---
 
@@ -26,9 +26,12 @@ Passionate about designing resilient systems that blend security, privacy, and s
 ---
 
 ## 🚀 Featured Projects
-
-### 🔒 Anonymous Age Verification (zk-creds)  
-Built a zero-knowledge credential system using Rust and zkSNARKs to prove age ≥21 without revealing birthdates.  
+I’ve been fortunate to 
+- **Build**: Urbanization Trend Analysis, SQL Injection Defense System, IoT Highway Safety Predictor     
+- **Explore**: cybersecurity and Privacy-preserving tech like zero-knowledge proofs through hands-on projects  
+- **Learn**: From amazing peers and professors about AI/ML, NLP, LLM's, cloud systems, and cybersecurity
+### 🔒 Anonymous Age Verification   
+A zero-knowledge credential system using Rust and zkSNARKs to prove age ≥21 without revealing birthdates (zkcreds demo).  
 Tech: Rust, Groth16, Merkle Trees, Poseidon Hash 
 
 ### 🔐 Applied Cybersecurity   
