@@ -66,7 +66,7 @@ redirect_from:
 * **SQL Injection Attack Detection and Prevention Model** 
     *  Key Tech: Python, SQL, [Pattern Matching/ML]
     *  Developed a model to detect and prevent SQL Injection attacks for an academic institution's portal, focusing on query analysis and a hybrid signature-anomaly detection methodology, achieving 100% blocking of malicious payloads (e.g., UNION-based, blind SQLi, hex-encoded attacks) during testing through real-time query sanitization and automated IP blocking.
-    *  Supervisor: Dr. F. Chete*
+    *  Supervisor: Dr. F. Chete
 
 * **Machine Learning for Chronic Kidney Disease (CKD) Risk Prediction** BSc AI Course Project, Edo State University Uzairue
     *  Key Tech: Python, Pandas, Matplotlib, Seaborn, Scikit-Learn
