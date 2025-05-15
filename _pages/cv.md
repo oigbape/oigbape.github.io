@@ -53,7 +53,7 @@ redirect_from:
 **Analytical & Soft Skills:**  
 - Threat Analysis & Mitigation (SQLi, Buffer Overflows)   
 - Technical Documentation (Project Reports, Security Policies)  
-- Agile Problem-Solving, Stakeholder Communication, Mentorship  
+- Agile Problem-Solving, Stakeholder Communication, Collaborative teamwork  
   
 ## Professional Experience
 * **Network Services Engineer,** MIS Directorate, Federal Polytechnic Auchi, Edo State, NG (Jan 2017 – Aug 2024)  
