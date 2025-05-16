@@ -28,8 +28,8 @@ Passionate about using technology to solve real problems such as making systems 
 ## 🚀 Featured Projects
 I’ve been fortunate to 
 - **Build**: Urbanization Trend Analysis, SQL Injection Defense System, IoT Highway Safety Predictor     
-- **Explore**: Cybersecurity and Privacy-preserving tech like zero-knowledge proofs through hands-on projects  
-- **Learn**: From amazing peers and professors about AI/ML, NLP, LLM's, Data Engineering and Cloud systems
+- **Explore**: Cloud systems, Cybersecurity and Privacy-preserving tech like zero-knowledge proofs through hands-on projects  
+- **Learn**: From amazing peers and professors about AI/ML, NLP, LLM's, Data Engineering 
 ### 🔒 Anonymous Age Verification   
 A zero-knowledge credential system using Rust and zkSNARKs to prove age ≥21 without revealing birthdates (zkcreds demo).  
 Tech: Rust, Groth16, Merkle Trees, Poseidon Hash 
