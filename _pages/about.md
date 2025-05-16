@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-# 👋 Welcome to My Corner of the Web!
+# 👋 Welcome!
 
-**MSCS Student @ Georgia Tech** | Building Secure & Intelligent Systems  
+**MSCS Student @ Georgia Tech**  
 Passionate about using technology to solve real problems such as making systems more secure, data more meaningful, or AI more accessible. 
 
 ---
