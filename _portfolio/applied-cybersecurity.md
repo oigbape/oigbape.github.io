@@ -11,8 +11,7 @@ Key Technologies: "C, Python, GDB, Linux Security, and Cryptography (Symmetric/A
 # image_path: "/images/portfolio/cybersecurity-lab-teaser.png"
 ---
 ## Objective
-To gain practical understanding and experience of common software vulnerabilities, memory corruption attacks, secure programming principles, the workings of cryptographic primitives, and common attacks against cryptographic systems.
-* [**Supervised**](https://www.linkedin.com/in/changlaidu/)
+To gain practical understanding and experience of common software vulnerabilities, memory corruption attacks, secure programming principles, the workings of cryptographic primitives, and common attacks against cryptographic systems.[**Supervised**](https://www.linkedin.com/in/changlaidu/)
 * **Compilation Lab:**
    * Explored the step-by-step C compilation process (preprocessing, compilation, assembly, linking) using `gcc`.
    * Analyzed executable sections using `objdump` and observed the impact of debugging flags (`-g`).
