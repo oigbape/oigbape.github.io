@@ -10,7 +10,7 @@ technologies: "Python, D3.js, Tableau, SQLite, Flask, Spark (Scala), Azure ML, D
 # live_demo_url: "[Link to a key demo if applicable]"
 # image_path: "/images/portfolio/gt-data-viz-teaser.png"
 ---
-
+[Supervised](https://www.linkedin.com/in/mengmengliu-gatech/)
 
 ## Project 1
 * **Modeling Urbanization’s Impact on Coastal Ecosystem Health:**
