@@ -11,7 +11,7 @@ redirect_from:
 # 👋 Welcome!
 
 **MSCS Student @ Georgia Tech**  
-Passionate about using technology to solve real problems such as making systems more secure, data more meaningful, or AI more accessible. 
+Interests: Data Engineering and Security.
 
 ---
 
