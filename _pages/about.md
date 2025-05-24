@@ -34,14 +34,13 @@ I’ve been fortunate to
 ---
 
 
-## ⚡ Beyond Code
+## Beyond professional life
 - ⚽ **Weekend Striker**: Lifelong Manchester United supporter and amateur league player  
 - 🌱 **Tech Mentor**: Taught coding to 50+ students in underserved Nigerian communities  
  
 
 ---
 
-🙏 **Thanks for visiting!**  
-Let's connect and build something secure together:  
+**Thanks for visiting!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/olamotse)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:oigbape3@gatech.edu)
