@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[**Download CV (PDF)**](/files/Igbape.pdf){: .btn .btn--success}{:target="_blank"}
+[**Download CV (PDF)**](/files/Roland_CV.pdf){: .btn .btn--success}{:target="_blank"}
 <div class="text-center">
   <h1 style="margin-bottom: 0.3em;">Olamotse Roland Igbape</h1>
   <a href="mailto:oigbape3@gatech.edu">oigbape3@gatech.edu</a><br>
@@ -53,7 +53,13 @@ redirect_from:
 **Analytical & Soft Skills:**  
 - Threat Analysis & Mitigation (SQLi, Buffer Overflows)   
 - Technical Documentation (Project Reports, Security Policies)  
-- Agile Problem-Solving, Stakeholder Communication, Collaborative teamwork  
+- Agile Problem-Solving, Stakeholder Communication, Collaborative teamwork
+
+**Language skills**
+- English (Native Speaker)
+- Hausa(Fluent)
+- French(Intermediate)
+- Mandarin(Basic)
   
 ## Professional Experience
 * **Network Services Engineer,** MIS Directorate, Federal Polytechnic Auchi, Edo State, NG (Jan 2017 – Aug 2024)  
