@@ -63,6 +63,7 @@ redirect_from:
   
 ## Professional Experience
 * **Network Services Engineer,** MIS Directorate, Federal Polytechnic Auchi, Edo State, NG (Jan 2017 – Aug 2024)  
+  *  Spearheaded technical planning for 2 major institutional IT projects (NITDA and ODFEL ICT lab) with  $200k+ ICT procurement initiatives, evaluating vendor solutions against security, scalability, and cost criteria, ensuring 100% alignment with MIS Directorate strategic goals resulting in 7% cost savings and avoiding all deployment failures with thorough pre-deployment testing.
   *  Provided comprehensive network administration and technical support for a campus infrastructure serving 5,000+ users and managing 300+ network devices (routers, switches, firewalls, APs).
   *  Achieved & maintained an average network uptime of 99.7% during on-duty time through proactive monitoring, maintenance, and timely issue resolution.
   *  Key contributor to major network infrastructure upgrade, including (expanding campus Wi-Fi coverage by 30% to 5 new zones, benefiting 1,000+ users, and assisting in the migration to a new ISP link].
